@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/basic/DataTypes/obj
+/basic/DataTypes/.vs
+/basic/namespaces/.vs
+/basic/namespaces/bin/Debug/net8.0
+/basic/namespaces/obj
+/basic/strings/.vs
+/basic/strings/bin/Debug/net8.0
+/basic/strings/obj
+/webApps/EmployeeAdminPortal/.vs
+/webApps/EmployeeAdminPortal/bin/Debug/net8.0
+/webApps/EmployeeAdminPortal/obj
