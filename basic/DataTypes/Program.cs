@@ -2,5 +2,9 @@
 
 class Datatypes
 {
-    Console.WriteLine("Hello friends");
+    static void Main()
+    {
+        int range = 98745;
+        Console.WriteLine(range);
+    }
 }
