@@ -6,10 +6,11 @@ namespace EmployeeAdminPortal.Data
 {
     public class ApplicationDBContext : DbContext
     {
-        public ApplicationDBContext(DbContextOptions<DbContext> options) : base(options)
+        public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options)
+    : base(options)
         {
-            
         }
+
         public DbSet<Employee> MyProperty { get; set; }
     }
 }
