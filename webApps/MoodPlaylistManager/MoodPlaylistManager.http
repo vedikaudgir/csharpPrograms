@@ -1,0 +1,6 @@
+@MoodPlaylistManager_HostAddress = http://localhost:5028
+
+GET {{MoodPlaylistManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
