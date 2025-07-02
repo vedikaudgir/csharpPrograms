@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmPfo54v3QQ=",
+  "dgSpecHash": "x4qMt3x+2Pw=",
   "success": true,
-  "projectFilePath": "D:\\c#Programs\\webApps\\MoodPlaylistManager\\MoodPlaylistManager.csproj",
+  "projectFilePath": "D:\\csharpPrograms\\webApps\\MoodPlaylistManager\\MoodPlaylistManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

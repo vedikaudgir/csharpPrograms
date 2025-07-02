@@ -8,5 +8,6 @@ namespace MoodPlaylistManager.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options){}        
         public DbSet<Playlists> Playlist { get; set; }
+        public DbSet<Songs> Songs { get; set; }
     }
 }
