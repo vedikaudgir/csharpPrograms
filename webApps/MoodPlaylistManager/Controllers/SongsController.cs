@@ -49,7 +49,10 @@ namespace MoodPlaylistManager.Controllers
         {
             var song = dbContext.Songs.Find(id);
             if (song == null)
+            {
                 return NotFound();
+            }
+
             song.Title = dto.Title;
             song.Artist = dto.Artist;
             song.PlaylistId = dto.PlaylistId;

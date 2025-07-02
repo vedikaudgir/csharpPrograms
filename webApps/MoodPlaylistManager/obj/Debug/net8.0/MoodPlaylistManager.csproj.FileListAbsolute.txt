@@ -334,3 +334,7 @@ D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\refint\MoodPlayli
 D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\MoodPlaylistManager.pdb
 D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\MoodPlaylistManager.genruntimeconfig.cache
 D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\ref\MoodPlaylistManager.dll
+D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\csharpPrograms\webApps\MoodPlaylistManager\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
