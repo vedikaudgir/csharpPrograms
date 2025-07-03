@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeAdminPortal.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20250630182959_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20250703151337_initial commit")]
+    partial class initialcommit
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -48,7 +48,7 @@ namespace EmployeeAdminPortal.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("MyProperty");
+                    b.ToTable("Employee");
                 });
 #pragma warning restore 612, 618
         }
