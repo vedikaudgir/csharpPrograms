@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoodPlaylistManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f394cfd6f7d4b9440b9c3440154e66a3b2bff8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac6505373aceb7b0c2305c38e7be938a1f42ac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoodPlaylistManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoodPlaylistManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

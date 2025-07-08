@@ -50,7 +50,7 @@ namespace MoodPlaylistManager.Controllers
             var song = dbContext.Songs.Find(id);
             if (song == null)
             {
-                return NotFound();
+                return NotFound("Invalid input");
             }
 
             song.Title = dto.Title;
